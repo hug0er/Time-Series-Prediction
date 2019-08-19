@@ -1,0 +1,228 @@
+2019-07-28 16:51:26,929 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 16:52:07,526 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 16:52:30,964 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 16:52:30,964 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:14:52,214 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:14:52,214 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:14:52,214 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:17:40,765 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:18:50,997 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:18:50,997 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:19:41,657 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:19:41,658 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:21:14,542 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:21:14,542 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:21:23,103 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:21:28,862 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:21:28,862 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:21:28,863 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:21:28,863 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:22:36,531 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:23:00,566 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 17:23:01,624 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:23:01,624 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:23:01,700 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 17:23:01,716 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 17:23:01,811 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 17:23:38,717 - root - INFO - Generation average: 20864.40%
+2019-07-28 17:23:38,718 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:23:38,718 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 17:24:11,532 - root - INFO - Generation average: 24621.85%
+2019-07-28 17:24:11,532 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:24:11,532 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 17:24:40,274 - root - INFO - Generation average: 90227.35%
+2019-07-28 17:24:40,275 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:24:40,275 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 17:25:09,474 - root - INFO - Generation average: 140819.64%
+2019-07-28 17:25:09,474 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:25:09,474 - root - INFO - ***Doing generation 5 of 5***
+2019-07-28 17:25:37,145 - root - INFO - Generation average: 175301.42%
+2019-07-28 17:25:37,145 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:25:37,145 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:25:37,145 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:25:37,146 - root - INFO - Network accuracy: 584041.43%
+2019-07-28 17:25:37,146 - root - INFO - {'nb_neurons': 24, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:25:37,146 - root - INFO - Network accuracy: 393771.69%
+2019-07-28 17:25:37,146 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:25:37,146 - root - INFO - Network accuracy: 300621.50%
+2019-07-28 17:25:37,146 - root - INFO - {'nb_neurons': 8, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:25:37,147 - root - INFO - Network accuracy: 147663.71%
+2019-07-28 17:25:37,147 - root - INFO - {'nb_neurons': 12, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:25:37,147 - root - INFO - Network accuracy: 102328.98%
+2019-07-28 17:35:32,706 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 17:35:32,706 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 17:37:07,769 - root - INFO - Generation average: 34846.51%
+2019-07-28 17:37:07,769 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:37:07,770 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 17:37:47,723 - root - INFO - Generation average: 42772.07%
+2019-07-28 17:37:47,723 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:37:47,723 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 17:38:24,811 - root - INFO - Generation average: 63180.26%
+2019-07-28 17:38:24,811 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:38:24,811 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 17:39:10,437 - root - INFO - Generation average: 72864.41%
+2019-07-28 17:39:10,437 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:39:10,437 - root - INFO - ***Doing generation 5 of 5***
+2019-07-28 17:39:59,202 - root - INFO - Generation average: 92982.62%
+2019-07-28 17:39:59,202 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:39:59,203 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 17:39:59,203 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:39:59,203 - root - INFO - Network accuracy: 148342.55%
+2019-07-28 17:39:59,203 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:39:59,203 - root - INFO - Network accuracy: 136684.57%
+2019-07-28 17:39:59,204 - root - INFO - {'nb_neurons': 24, 'i_neurons': 4, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:39:59,204 - root - INFO - Network accuracy: 126079.06%
+2019-07-28 17:39:59,204 - root - INFO - {'nb_neurons': 24, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-28 17:39:59,204 - root - INFO - Network accuracy: 115699.49%
+2019-07-28 17:39:59,204 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 17:39:59,204 - root - INFO - Network accuracy: 108329.36%
+2019-07-28 18:01:02,614 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:01:03,654 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:01:03,655 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:01:03,693 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:01:03,708 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:01:03,842 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:02:08,111 - root - INFO - Generation average: 0.00%
+2019-07-28 18:02:08,111 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:02:08,111 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 18:03:17,236 - root - INFO - Generation average: 0.00%
+2019-07-28 18:03:17,236 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:03:17,236 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 18:04:28,830 - root - INFO - Generation average: 0.00%
+2019-07-28 18:04:28,830 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:04:28,830 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 18:04:37,722 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:04:38,794 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:04:38,794 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:04:38,820 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:04:38,851 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:04:38,946 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:05:26,097 - root - INFO - Generation average: 0.00%
+2019-07-28 18:05:26,097 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:05:26,097 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 18:06:27,441 - root - INFO - Generation average: 0.00%
+2019-07-28 18:06:27,441 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:06:27,441 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 18:07:19,007 - root - INFO - Generation average: 0.00%
+2019-07-28 18:07:19,007 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:07:19,008 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 18:08:21,244 - root - INFO - Generation average: 0.00%
+2019-07-28 18:08:21,244 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:08:21,245 - root - INFO - ***Doing generation 5 of 5***
+2019-07-28 18:09:18,817 - root - INFO - Generation average: 0.00%
+2019-07-28 18:09:18,817 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:09:18,817 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:09:18,817 - root - INFO - {'nb_neurons': 12, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:09:18,818 - root - INFO - Network accuracy: 0.00%
+2019-07-28 18:09:18,818 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:09:18,818 - root - INFO - Network accuracy: 0.00%
+2019-07-28 18:09:18,818 - root - INFO - {'nb_neurons': 4, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:09:18,818 - root - INFO - Network accuracy: 0.00%
+2019-07-28 18:09:18,819 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:09:18,819 - root - INFO - Network accuracy: 0.00%
+2019-07-28 18:09:18,819 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:09:18,819 - root - INFO - Network accuracy: 0.00%
+2019-07-28 18:16:08,073 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:16:09,095 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:16:09,095 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:16:09,152 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:16:09,169 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:16:09,326 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:17:32,946 - root - INFO - Generation average: 0.0032377207%
+2019-07-28 18:17:32,946 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:17:32,946 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 18:19:01,934 - root - INFO - Generation average: 0.0007694004%
+2019-07-28 18:19:01,934 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:19:01,934 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 18:20:53,963 - root - INFO - Generation average: 0.0006527243%
+2019-07-28 18:20:53,964 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:20:53,964 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 18:22:23,869 - root - INFO - Generation average: 0.0011284203%
+2019-07-28 18:22:23,869 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:22:23,869 - root - INFO - ***Doing generation 5 of 5***
+2019-07-28 18:23:14,844 - root - INFO - Generation average: 0.0012667673%
+2019-07-28 18:23:14,844 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:23:14,845 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:23:14,845 - root - INFO - {'nb_neurons': 6, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:23:14,845 - root - INFO - Network MSE: 0.0005223703%
+2019-07-28 18:23:14,845 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:23:14,845 - root - INFO - Network MSE: 0.0006286257%
+2019-07-28 18:23:14,845 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:23:14,845 - root - INFO - Network MSE: 0.0009357629%
+2019-07-28 18:23:14,845 - root - INFO - {'nb_neurons': 6, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:23:14,845 - root - INFO - Network MSE: 0.0009876798%
+2019-07-28 18:23:14,846 - root - INFO - {'nb_neurons': 6, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-28 18:23:14,846 - root - INFO - Network MSE: 0.0011356361%
+2019-07-28 18:28:24,659 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:28:36,668 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:28:36,669 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:29:15,781 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:29:49,088 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:30:14,104 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:30:15,078 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:30:15,078 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:30:15,111 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:30:15,126 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:30:15,281 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:30:43,173 - root - INFO - Generation average: 0.0144906840%
+2019-07-28 18:30:43,173 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:30:43,174 - root - INFO - ***Doing generation 2 of 5***
+2019-07-28 18:31:18,216 - root - INFO - Generation average: 0.0103812343%
+2019-07-28 18:31:18,216 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:31:18,216 - root - INFO - ***Doing generation 3 of 5***
+2019-07-28 18:31:52,038 - root - INFO - Generation average: 0.0121623194%
+2019-07-28 18:31:52,039 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:31:52,039 - root - INFO - ***Doing generation 4 of 5***
+2019-07-28 18:32:32,692 - root - INFO - Generation average: 0.0117629578%
+2019-07-28 18:32:32,693 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:32:32,693 - root - INFO - ***Doing generation 5 of 5***
+2019-07-28 18:33:15,346 - root - INFO - Generation average: 0.0092992762%
+2019-07-28 18:33:15,347 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:33:15,348 - root - INFO - --------------------------------------------------------------------------------
+2019-07-28 18:33:15,348 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-28 18:33:15,348 - root - INFO - Network MSE: 0.0054422459%
+2019-07-28 18:33:15,349 - root - INFO - {'nb_neurons': 6, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-28 18:33:15,349 - root - INFO - Network MSE: 0.0055521261%
+2019-07-28 18:33:15,349 - root - INFO - {'nb_neurons': 6, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-28 18:33:15,350 - root - INFO - Network MSE: 0.0087431083%
+2019-07-28 18:33:15,350 - root - INFO - {'nb_neurons': 24, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-28 18:33:15,351 - root - INFO - Network MSE: 0.0088896435%
+2019-07-28 18:33:15,351 - root - INFO - {'nb_neurons': 6, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-28 18:33:15,352 - root - INFO - Network MSE: 0.0093611972%
+2019-07-28 18:49:36,558 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:49:36,577 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:50:07,266 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:50:07,266 - root - INFO - ***Doing generation 1 of 5***
+2019-07-28 18:51:38,874 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:51:42,188 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-28 18:51:42,189 - root - INFO - ***Doing generation 1 of 5***

@@ -1,0 +1,23 @@
+2019-05-24 18:49:58,018 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-24 18:50:12,959 - root - INFO - entrada
+2019-05-24 18:50:12,984 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-24 18:50:13,003 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-05-24 18:50:13,133 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-24 18:50:16,301 - root - INFO - salida
+2019-05-24 18:50:18,316 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:50:18,322 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-24 18:50:18,347 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-24 18:50:18,390 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:50:18,422 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:50:18,440 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:45:45,500 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-14 23:46:19,348 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-14 23:46:25,095 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-14 23:46:35,765 - root - INFO - entrada
+2019-06-14 23:54:32,459 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.

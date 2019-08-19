@@ -1,0 +1,842 @@
+2019-06-14 23:17:55,166 - root - INFO - entrada
+2019-06-14 23:18:05,881 - root - INFO - salida
+2019-06-14 23:18:34,789 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:18:34,802 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-14 23:18:34,855 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-14 23:18:34,884 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:18:34,904 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:18:34,915 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:19:24,453 - root - INFO - ***Evolving 3 generations with population 20***
+2019-06-14 23:19:24,453 - root - INFO - ***Doing generation 1 of 3***
+2019-06-14 23:22:28,145 - root - INFO - Generation average: 3000.15%
+2019-06-14 23:22:28,146 - root - INFO - --------------------------------------------------------------------------------
+2019-06-14 23:22:28,146 - root - INFO - ***Doing generation 2 of 3***
+2019-06-14 23:24:16,859 - root - INFO - Generation average: 3358.33%
+2019-06-14 23:24:16,859 - root - INFO - --------------------------------------------------------------------------------
+2019-06-14 23:24:16,860 - root - INFO - ***Doing generation 3 of 3***
+2019-06-14 23:26:26,339 - root - INFO - Generation average: 3792.31%
+2019-06-14 23:26:26,340 - root - INFO - --------------------------------------------------------------------------------
+2019-06-14 23:26:26,340 - root - INFO - --------------------------------------------------------------------------------
+2019-06-14 23:26:26,340 - root - INFO - {'nb_neurons': 12, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-14 23:26:26,340 - root - INFO - Network accuracy: 4027.13%
+2019-06-14 23:26:26,341 - root - INFO - {'nb_neurons': 8, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-14 23:26:26,341 - root - INFO - Network accuracy: 3980.55%
+2019-06-14 23:26:26,341 - root - INFO - {'nb_neurons': 8, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-14 23:26:26,341 - root - INFO - Network accuracy: 3976.62%
+2019-06-14 23:26:26,341 - root - INFO - {'nb_neurons': 8, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-14 23:26:26,342 - root - INFO - Network accuracy: 3955.82%
+2019-06-14 23:26:26,342 - root - INFO - {'nb_neurons': 8, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-06-14 23:26:26,342 - root - INFO - Network accuracy: 3940.25%
+2019-06-14 23:29:52,912 - root - INFO - entrada
+2019-06-14 23:30:03,662 - root - INFO - salida
+2019-06-14 23:30:12,088 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:30:12,143 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:30:12,164 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:30:12,175 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:32:57,035 - root - INFO - entrada
+2019-06-14 23:33:17,371 - root - INFO - salida
+2019-06-14 23:33:24,997 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:33:25,040 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:33:25,061 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:33:25,073 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:33:44,421 - root - INFO - entrada
+2019-06-14 23:33:57,349 - root - INFO - salida
+2019-06-14 23:34:03,002 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:34:03,087 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:34:03,108 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:34:03,119 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-14 23:35:35,040 - root - INFO - ***Evolving 5 generations with population 30***
+2019-06-14 23:35:35,041 - root - INFO - ***Doing generation 1 of 5***
+2019-06-14 23:44:13,003 - root - INFO - Generation average: 3195.78%
+2019-06-14 23:44:13,003 - root - INFO - --------------------------------------------------------------------------------
+2019-06-14 23:44:13,004 - root - INFO - ***Doing generation 2 of 5***
+2019-06-14 23:49:07,873 - root - INFO - entrada
+2019-06-14 23:49:51,886 - root - INFO - entrada
+2019-06-14 23:54:49,397 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-14 23:56:34,127 - root - INFO - entrada
+2019-06-14 23:56:34,127 - root - INFO - entrada
+2019-06-14 23:57:32,960 - root - INFO - entrada
+2019-06-14 23:57:32,960 - root - INFO - entrada
+2019-06-15 00:05:59,656 - root - INFO - entrada
+2019-06-15 00:05:59,656 - root - INFO - entrada
+2019-06-15 00:06:21,868 - root - INFO - entrada
+2019-06-15 00:06:21,868 - root - INFO - entrada
+2019-06-15 00:07:08,213 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-15 00:07:27,078 - root - INFO - entrada
+2019-06-16 11:23:09,371 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-16 11:23:47,529 - root - INFO - ***Evolving 8 generations with population 40***
+2019-06-16 11:23:47,529 - root - INFO - ***Doing generation 1 of 8***
+2019-07-03 15:41:16,174 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-03 15:43:00,669 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-03 15:43:43,246 - root - INFO - entrada
+2019-07-03 15:43:56,298 - root - INFO - salida
+2019-07-03 15:45:33,380 - root - INFO - entrada
+2019-07-03 15:45:50,187 - root - INFO - entrada
+2019-07-03 15:46:07,852 - root - INFO - salida
+2019-07-03 15:47:07,630 - root - INFO - entrada
+2019-07-03 15:52:25,368 - root - INFO - entrada
+2019-07-03 15:53:08,399 - root - INFO - entrada
+2019-07-03 16:00:21,997 - root - INFO - entrada
+2019-07-03 16:01:16,369 - root - INFO - salida
+2019-07-03 16:02:45,773 - root - INFO - entrada
+2019-07-03 16:02:53,980 - root - INFO - salida
+2019-07-03 16:04:17,101 - root - INFO - entrada
+2019-07-03 16:05:40,426 - root - INFO - entrada
+2019-07-03 16:05:40,564 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\envs\Tesis\lib\site-packages\keras\backend\tensorflow_backend.py:2504: Print (from tensorflow.python.ops.logging_ops) is deprecated and will be removed after 2018-08-20.
+Instructions for updating:
+Use tf.print instead of tf.Print. Note that tf.print returns a no-output operator that directly prints the output. Outside of defuns or eager mode, this operator will not be executed unless it is directly specified in session.run or used as a control dependency for other operators. This is only a concern in graph mode. Below is an example of how to ensure tf.print executes in graph mode:
+```python
+    sess = tf.Session()
+    with sess.as_default():
+        tensor = tf.range(10)
+        print_op = tf.print(tensor)
+        with tf.control_dependencies([print_op]):
+          out = tf.add(tensor, tensor)
+        sess.run(out)
+    ```
+Additionally, to use tf.print in python 2.7, users must make sure to import
+the following:
+
+  `from __future__ import print_function`
+
+2019-07-03 16:06:24,152 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-03 16:06:36,226 - root - INFO - entrada
+2019-07-03 16:06:36,226 - root - INFO - entrada
+2019-07-03 16:07:15,196 - root - INFO - entrada
+2019-07-03 16:07:15,196 - root - INFO - entrada
+2019-07-03 16:07:25,988 - root - INFO - salida
+2019-07-03 16:07:25,988 - root - INFO - salida
+2019-07-03 16:08:45,181 - root - INFO - entrada
+2019-07-03 16:08:45,181 - root - INFO - entrada
+2019-07-03 16:10:56,544 - root - INFO - entrada
+2019-07-03 16:10:56,544 - root - INFO - entrada
+2019-07-03 16:11:14,944 - root - INFO - entrada
+2019-07-03 16:11:14,944 - root - INFO - entrada
+2019-07-03 16:13:16,651 - root - INFO - entrada
+2019-07-03 16:13:16,651 - root - INFO - entrada
+2019-07-03 16:13:34,106 - root - INFO - entrada
+2019-07-03 16:13:34,106 - root - INFO - entrada
+2019-07-03 16:14:09,062 - root - INFO - entrada
+2019-07-03 16:14:09,062 - root - INFO - entrada
+2019-07-03 16:14:21,204 - root - INFO - salida
+2019-07-03 16:14:21,204 - root - INFO - salida
+2019-07-03 16:21:05,668 - root - INFO - entrada
+2019-07-03 16:21:05,668 - root - INFO - entrada
+2019-07-03 16:30:34,863 - root - INFO - entrada
+2019-07-03 16:30:34,863 - root - INFO - entrada
+2019-07-03 16:31:21,289 - root - INFO - entrada
+2019-07-03 16:31:21,289 - root - INFO - entrada
+2019-07-03 16:32:00,616 - root - INFO - entrada
+2019-07-03 16:32:00,616 - root - INFO - entrada
+2019-07-03 16:32:44,937 - root - INFO - entrada
+2019-07-03 16:32:44,937 - root - INFO - entrada
+2019-07-03 16:32:55,919 - root - INFO - salida
+2019-07-03 16:32:55,919 - root - INFO - salida
+2019-07-03 16:33:13,907 - root - INFO - entrada
+2019-07-03 16:33:13,907 - root - INFO - entrada
+2019-07-03 16:33:28,324 - root - INFO - salida
+2019-07-03 16:33:28,324 - root - INFO - salida
+2019-07-03 16:34:04,448 - root - INFO - entrada
+2019-07-03 16:34:04,448 - root - INFO - entrada
+2019-07-03 16:34:14,603 - root - INFO - salida
+2019-07-03 16:34:14,603 - root - INFO - salida
+2019-07-03 16:35:33,046 - root - INFO - entrada
+2019-07-03 16:35:33,046 - root - INFO - entrada
+2019-07-03 16:35:43,150 - root - INFO - salida
+2019-07-03 16:35:43,150 - root - INFO - salida
+2019-07-03 16:35:56,059 - root - INFO - entrada
+2019-07-03 16:35:56,059 - root - INFO - entrada
+2019-07-03 16:36:11,906 - root - INFO - salida
+2019-07-03 16:36:11,906 - root - INFO - salida
+2019-07-03 16:36:25,528 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,528 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,536 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-03 16:36:25,536 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-03 16:36:25,573 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-03 16:36:25,573 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-03 16:36:25,611 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,611 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,633 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,633 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,646 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:36:25,646 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:08,391 - root - INFO - entrada
+2019-07-03 16:37:08,391 - root - INFO - entrada
+2019-07-03 16:37:19,202 - root - INFO - salida
+2019-07-03 16:37:19,202 - root - INFO - salida
+2019-07-03 16:37:32,284 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,284 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,340 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,340 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,362 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,362 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,374 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:37:32,374 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:38:49,166 - root - INFO - entrada
+2019-07-03 16:38:49,166 - root - INFO - entrada
+2019-07-03 16:38:58,619 - root - INFO - salida
+2019-07-03 16:38:58,619 - root - INFO - salida
+2019-07-03 16:39:31,974 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:31,974 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,017 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,017 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,039 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,039 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,051 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:39:32,051 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 16:41:49,339 - root - INFO - ***Evolving 8 generations with population 40***
+2019-07-03 16:41:49,339 - root - INFO - ***Evolving 8 generations with population 40***
+2019-07-03 16:41:49,340 - root - INFO - ***Doing generation 1 of 8***
+2019-07-03 16:41:49,340 - root - INFO - ***Doing generation 1 of 8***
+2019-07-03 19:02:06,152 - root - INFO - entrada
+2019-07-03 19:02:06,152 - root - INFO - entrada
+2019-07-03 19:02:14,806 - root - INFO - salida
+2019-07-03 19:02:14,806 - root - INFO - salida
+2019-07-03 19:02:27,382 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,382 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,425 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,425 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,465 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,465 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,477 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:27,477 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-03 19:02:48,535 - root - INFO - entrada
+2019-07-03 19:02:48,535 - root - INFO - entrada
+2019-07-12 23:53:45,438 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-12 23:55:50,192 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:55:50,204 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-12 23:55:50,253 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:55:50,274 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:55:50,285 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:56:38,312 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:56:38,365 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:56:38,383 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:56:38,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:57:15,993 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:57:16,034 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:57:16,053 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:57:16,064 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:08,821 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:08,880 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:08,901 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:08,913 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:15,206 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:15,265 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:15,286 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:15,298 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:48,909 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:48,949 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:48,967 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:58:48,977 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:00,404 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:00,442 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:00,460 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:00,471 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:07,752 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:07,785 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:07,804 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:07,814 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:12,706 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:12,739 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:12,757 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:12,767 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-12 23:59:49,739 - root - INFO - entrada
+2019-07-13 00:01:47,555 - root - INFO - entrada
+2019-07-13 00:02:11,638 - root - INFO - salida
+2019-07-13 00:02:27,879 - root - INFO - entrada
+2019-07-13 00:02:44,685 - root - INFO - salida
+2019-07-13 00:02:57,668 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:02:57,685 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-13 00:02:57,730 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:02:57,751 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:02:57,762 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:03:24,457 - root - INFO - entrada
+2019-07-13 00:03:31,033 - root - INFO - salida
+2019-07-13 00:03:55,962 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:03:56,004 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:03:56,025 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:03:56,035 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:04:22,094 - root - INFO - entrada
+2019-07-13 00:04:42,258 - root - INFO - salida
+2019-07-13 00:05:33,061 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:05:33,102 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:05:33,126 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:05:33,138 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:06:17,162 - root - INFO - entrada
+2019-07-13 00:06:39,294 - root - INFO - salida
+2019-07-13 00:06:43,190 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:06:43,231 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:06:43,250 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:06:43,261 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:08:33,379 - root - INFO - entrada
+2019-07-13 00:08:55,928 - root - INFO - salida
+2019-07-13 00:09:10,758 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:10,799 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:10,819 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:10,830 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:31,758 - root - INFO - entrada
+2019-07-13 00:09:41,313 - root - INFO - salida
+2019-07-13 00:09:45,753 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:45,795 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:45,815 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:45,827 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:09:59,098 - root - INFO - entrada
+2019-07-13 00:10:08,339 - root - INFO - entrada
+2019-07-13 00:10:24,501 - root - INFO - salida
+2019-07-13 00:10:38,160 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:10:38,208 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:10:38,241 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:10:38,253 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:11:29,797 - root - INFO - entrada
+2019-07-13 00:11:46,827 - root - INFO - salida
+2019-07-13 00:11:53,343 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:11:53,382 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:11:53,401 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:11:53,412 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:13:10,470 - root - INFO - ***Evolving 4 generations with population 30***
+2019-07-13 00:13:10,470 - root - INFO - ***Doing generation 1 of 4***
+2019-07-13 00:20:19,973 - root - INFO - Generation average: 22621.85%
+2019-07-13 00:20:19,974 - root - INFO - --------------------------------------------------------------------------------
+2019-07-13 00:20:19,974 - root - INFO - ***Doing generation 2 of 4***
+2019-07-13 00:24:10,470 - root - INFO - Generation average: 38963.16%
+2019-07-13 00:24:10,471 - root - INFO - --------------------------------------------------------------------------------
+2019-07-13 00:24:10,471 - root - INFO - ***Doing generation 3 of 4***
+2019-07-13 00:27:39,289 - root - INFO - Generation average: 55746.76%
+2019-07-13 00:27:39,289 - root - INFO - --------------------------------------------------------------------------------
+2019-07-13 00:27:39,289 - root - INFO - ***Doing generation 4 of 4***
+2019-07-13 00:31:55,686 - root - INFO - Generation average: 99220.53%
+2019-07-13 00:31:55,686 - root - INFO - --------------------------------------------------------------------------------
+2019-07-13 00:31:55,686 - root - INFO - --------------------------------------------------------------------------------
+2019-07-13 00:31:55,686 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-13 00:31:55,686 - root - INFO - Network accuracy: 576650.47%
+2019-07-13 00:31:55,686 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-13 00:31:55,686 - root - INFO - Network accuracy: 367972.47%
+2019-07-13 00:31:55,687 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-13 00:31:55,687 - root - INFO - Network accuracy: 304834.99%
+2019-07-13 00:31:55,687 - root - INFO - {'nb_neurons': 16, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-13 00:31:55,687 - root - INFO - Network accuracy: 242277.85%
+2019-07-13 00:31:55,687 - root - INFO - {'nb_neurons': 12, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-13 00:31:55,688 - root - INFO - Network accuracy: 132611.05%
+2019-07-13 00:33:20,193 - root - INFO - entrada
+2019-07-13 00:33:32,439 - root - INFO - salida
+2019-07-13 00:34:06,782 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:34:06,822 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:34:06,842 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:34:06,854 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:14,703 - root - INFO - entrada
+2019-07-13 00:35:33,636 - root - INFO - salida
+2019-07-13 00:35:34,972 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:35,012 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:35,031 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:35,042 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:41,297 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:41,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:41,361 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:35:41,372 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:38:16,762 - root - INFO - entrada
+2019-07-13 00:38:26,537 - root - INFO - salida
+2019-07-13 00:38:34,457 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:38:34,498 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:38:34,517 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:38:34,528 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:39:06,001 - root - INFO - entrada
+2019-07-13 00:39:14,556 - root - INFO - salida
+2019-07-13 00:39:22,102 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:39:22,142 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:39:22,163 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:39:22,175 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:40:46,805 - root - INFO - entrada
+2019-07-13 00:40:55,703 - root - INFO - salida
+2019-07-13 00:40:59,440 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:40:59,480 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:40:59,499 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:40:59,510 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:42:19,630 - root - INFO - entrada
+2019-07-13 00:42:38,867 - root - INFO - salida
+2019-07-13 00:42:45,351 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:42:45,425 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:42:45,445 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:42:45,456 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:43:16,344 - root - INFO - entrada
+2019-07-13 00:43:44,137 - root - INFO - salida
+2019-07-13 00:43:53,076 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:43:53,116 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:43:53,135 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:43:53,146 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:44:25,875 - root - INFO - entrada
+2019-07-13 00:44:39,462 - root - INFO - salida
+2019-07-13 00:44:44,287 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:44:44,330 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:44:44,352 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:44:44,364 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:45:43,420 - root - INFO - entrada
+2019-07-13 00:45:52,187 - root - INFO - salida
+2019-07-13 00:46:25,602 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:46:25,646 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:46:25,665 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:46:25,676 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:46:46,768 - root - INFO - entrada
+2019-07-13 00:47:29,725 - root - INFO - salida
+2019-07-13 00:48:26,035 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:48:26,076 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:48:26,107 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:48:26,118 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:48:48,688 - root - INFO - entrada
+2019-07-13 00:49:03,789 - root - INFO - salida
+2019-07-13 00:49:18,669 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:49:18,708 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:49:18,734 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:49:18,752 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:49:33,682 - root - INFO - entrada
+2019-07-13 00:49:48,809 - root - INFO - salida
+2019-07-13 00:50:26,744 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:50:26,784 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:50:26,803 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:50:26,814 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:50:44,624 - root - INFO - entrada
+2019-07-13 00:51:09,948 - root - INFO - salida
+2019-07-13 00:51:49,978 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:51:50,018 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:51:50,039 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 00:51:50,052 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 16:59:15,594 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-13 17:01:48,842 - root - INFO - entrada
+2019-07-13 17:02:14,693 - root - INFO - salida
+2019-07-13 17:02:29,190 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:02:29,201 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-13 17:02:29,230 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-13 17:02:29,258 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:02:29,278 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:02:29,289 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:02:32,557 - root - INFO - entrada
+2019-07-13 17:04:05,956 - root - INFO - salida
+2019-07-13 17:04:26,478 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:04:26,525 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:04:26,552 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:04:26,572 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:05:25,819 - root - INFO - entrada
+2019-07-13 17:05:38,750 - root - INFO - salida
+2019-07-13 17:05:56,212 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:05:56,331 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:05:56,361 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:05:56,378 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:07:02,961 - root - INFO - entrada
+2019-07-13 17:07:19,772 - root - INFO - salida
+2019-07-13 17:07:42,369 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:07:42,440 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:07:42,460 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-13 17:07:42,473 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 20:04:17,998 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-21 20:04:55,221 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-21 21:21:12,555 - root - INFO - entrada
+2019-07-21 21:21:38,937 - root - INFO - salida
+2019-07-21 21:22:01,003 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:22:01,012 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-21 21:22:01,043 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-21 21:22:01,069 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:22:01,090 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:22:01,102 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:27:10,624 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:27:10,658 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:27:10,675 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:27:10,685 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:49:32,534 - root - INFO - entrada
+2019-07-21 21:49:57,020 - root - INFO - salida
+2019-07-21 21:50:07,497 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:07,538 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:07,558 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:07,570 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:33,917 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:33,961 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:33,984 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:50:33,997 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:51:05,964 - root - INFO - entrada
+2019-07-21 21:51:27,301 - root - INFO - salida
+2019-07-21 21:52:04,181 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:04,220 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:04,240 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:04,251 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:11,426 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:11,476 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:11,498 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:11,509 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:52:46,293 - root - INFO - entrada
+2019-07-21 21:53:15,490 - root - INFO - salida
+2019-07-21 21:54:39,775 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:54:39,816 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:54:39,839 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:54:39,851 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:55:32,163 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:55:32,207 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:55:32,228 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:55:32,239 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:55:55,764 - root - INFO - entrada
+2019-07-21 21:58:20,390 - root - INFO - salida
+2019-07-21 21:58:42,766 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:58:42,806 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:58:42,826 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:58:42,838 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:59:02,133 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:59:02,177 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:59:02,197 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 21:59:02,208 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 22:02:15,581 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 22:02:15,626 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 22:02:15,647 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-21 22:02:15,658 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:12:53,373 - root - INFO - entrada
+2019-07-22 01:13:22,992 - root - INFO - entrada
+2019-07-22 01:13:49,245 - root - INFO - entrada
+2019-07-22 01:15:23,175 - root - INFO - salida
+2019-07-22 01:15:30,971 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:31,013 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:31,035 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:31,046 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:43,552 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:43,598 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:43,619 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:15:43,631 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:16:27,320 - root - INFO - entrada
+2019-07-22 01:19:47,018 - root - INFO - salida
+2019-07-22 01:20:25,718 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:20:25,774 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:20:25,808 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:20:25,823 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:21:07,096 - root - INFO - entrada
+2019-07-22 01:23:46,158 - root - INFO - salida
+2019-07-22 01:24:03,435 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:03,568 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:03,633 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:03,671 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:22,113 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:22,245 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:22,307 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:22,341 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:24,699 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:24,827 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:24,881 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:24:24,912 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:25:47,209 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-22 01:26:12,772 - root - INFO - entrada
+2019-07-22 01:26:12,772 - root - INFO - entrada
+2019-07-22 01:27:20,505 - root - INFO - entrada
+2019-07-22 01:27:20,505 - root - INFO - entrada
+2019-07-22 01:27:50,120 - root - INFO - entrada
+2019-07-22 01:27:50,120 - root - INFO - entrada
+2019-07-22 01:29:45,953 - root - INFO - salida
+2019-07-22 01:29:45,953 - root - INFO - salida
+2019-07-22 01:30:44,866 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:44,866 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:44,961 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:44,961 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:45,004 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:45,004 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:45,028 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:45,028 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,532 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,532 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,604 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,604 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,637 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,637 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,655 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:30:50,655 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,207 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,207 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,311 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,311 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,355 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,355 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,379 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:31:15,379 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,139 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,139 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,227 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,227 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,260 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,260 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,277 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:11,277 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,075 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,075 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,142 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,142 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,174 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,174 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,191 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:33:50,191 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,586 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,586 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,654 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,654 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,687 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,687 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,704 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:35:17,704 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,088 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,088 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,145 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,145 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,172 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,172 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,186 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:37:43,186 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:25,975 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:25,975 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,068 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,068 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,111 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,111 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,135 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:26,135 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,429 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,429 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,523 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,523 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,566 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,566 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,590 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:38:59,590 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,531 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,531 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,588 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,588 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,628 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:39:32,628 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,261 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,261 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,321 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,321 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,350 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,350 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,365 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:01,365 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,464 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,464 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,522 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,522 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,547 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,547 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,561 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:13,561 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,460 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,460 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,515 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,515 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,540 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,540 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,554 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:31,554 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,831 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,831 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,887 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,887 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,912 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,912 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,926 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:40:44,926 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,538 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,538 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,581 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,581 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,602 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,602 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:07,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,521 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,521 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,565 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,565 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,586 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,586 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,597 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:41:13,597 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:42:27,352 - root - INFO - entrada
+2019-07-22 01:42:27,352 - root - INFO - entrada
+2019-07-22 01:44:15,703 - root - INFO - salida
+2019-07-22 01:44:15,703 - root - INFO - salida
+2019-07-22 01:44:37,258 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,258 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,350 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,350 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,418 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:37,418 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,545 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,545 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,591 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,591 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,613 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,624 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:44:41,624 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,128 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,128 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,219 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,219 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,263 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,263 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,287 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:33,287 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,275 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,275 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,366 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,366 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,409 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,409 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,432 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:43,432 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,354 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,354 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,401 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,401 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,423 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,423 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,435 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:50:54,435 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,296 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,296 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,339 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,339 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,359 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,359 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,370 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:37,370 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,763 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,763 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,811 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,811 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,835 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,835 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,846 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:51:41,846 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,439 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,439 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,482 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,482 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,503 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,503 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,514 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-22 01:54:28,514 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-27 23:45:15,940 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-27 23:49:17,033 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-27 23:55:50,467 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-27 23:55:50,467 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:20:33,170 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:20:33,170 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:20:33,170 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:39:46,239 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:39:46,239 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:39:46,239 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 00:39:46,239 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:07,674 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:07,674 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:07,674 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:07,674 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:07,674 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,643 - root - INFO - entrada
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,727 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,749 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:30,939 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:36:59,120 - root - INFO - salida
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,252 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,262 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,302 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,375 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-28 18:37:54,393 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-07-29 23:04:07,607 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.

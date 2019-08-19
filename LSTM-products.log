@@ -1,0 +1,158 @@
+2019-06-14 23:46:35,765 - root - INFO - entrada
+2019-06-14 23:54:32,459 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-15 22:35:05,534 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-15 22:35:29,320 - root - INFO - entrada
+2019-06-15 22:35:29,381 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-15 22:35:29,397 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-15 22:35:29,525 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-15 22:35:31,449 - root - INFO - salida
+2019-06-15 22:35:42,860 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-15 22:35:42,870 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-15 22:35:42,908 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-15 22:35:42,948 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-15 22:35:42,980 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-15 22:35:42,998 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-15 22:36:25,028 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-15 22:36:25,028 - root - INFO - ***Doing generation 1 of 5***
+2019-06-15 22:40:44,978 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-15 22:41:27,887 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-15 22:41:27,888 - root - INFO - ***Doing generation 1 of 5***
+2019-06-15 22:41:27,929 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-15 22:41:28,170 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-15 22:41:28,581 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-15 22:54:33,942 - root - INFO - Generation average: 3369.59%
+2019-06-15 22:54:33,942 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 22:54:33,942 - root - INFO - ***Doing generation 2 of 5***
+2019-06-15 23:02:39,670 - root - INFO - Generation average: 3676.12%
+2019-06-15 23:02:39,670 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 23:02:39,670 - root - INFO - ***Doing generation 3 of 5***
+2019-06-15 23:10:22,538 - root - INFO - Generation average: 3852.00%
+2019-06-15 23:10:22,539 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 23:10:22,539 - root - INFO - ***Doing generation 4 of 5***
+2019-06-15 23:17:44,592 - root - INFO - Generation average: 3790.02%
+2019-06-15 23:17:44,592 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 23:17:44,592 - root - INFO - ***Doing generation 5 of 5***
+2019-06-15 23:26:17,380 - root - INFO - Generation average: 3743.09%
+2019-06-15 23:26:17,380 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 23:26:17,380 - root - INFO - --------------------------------------------------------------------------------
+2019-06-15 23:26:17,380 - root - INFO - {'nb_neurons': 16, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-15 23:26:17,380 - root - INFO - Network accuracy: 4560.49%
+2019-06-15 23:26:17,380 - root - INFO - {'nb_neurons': 32, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-15 23:26:17,380 - root - INFO - Network accuracy: 4357.27%
+2019-06-15 23:26:17,380 - root - INFO - {'nb_neurons': 36, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-06-15 23:26:17,393 - root - INFO - Network accuracy: 4308.63%
+2019-06-15 23:26:17,393 - root - INFO - {'nb_neurons': 12, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-06-15 23:26:17,393 - root - INFO - Network accuracy: 4307.95%
+2019-06-15 23:26:17,393 - root - INFO - {'nb_neurons': 32, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-06-15 23:26:17,394 - root - INFO - Network accuracy: 4294.88%
+2019-06-16 00:48:58,049 - root - INFO - entrada
+2019-06-16 00:49:26,953 - root - INFO - salida
+2019-06-16 00:49:42,692 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:49:42,708 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 00:49:42,740 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 00:49:42,772 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:49:42,803 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:49:42,819 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:50:47,011 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:50:47,076 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:50:47,106 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:50:47,123 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:50:54,786 - root - INFO - entrada
+2019-06-16 00:51:24,986 - root - INFO - salida
+2019-06-16 00:51:51,570 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:51:51,648 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:51:51,680 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:51:51,695 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 00:54:25,587 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-16 00:54:25,588 - root - INFO - ***Doing generation 1 of 5***
+2019-06-16 07:47:35,129 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-06-16 07:58:21,754 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-16 07:58:21,755 - root - INFO - ***Doing generation 1 of 5***
+2019-06-16 07:59:14,149 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-16 07:59:14,149 - root - INFO - ***Doing generation 1 of 5***
+2019-06-16 07:59:23,387 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-16 07:59:23,388 - root - INFO - ***Doing generation 1 of 5***
+2019-06-16 08:39:47,147 - root - INFO - Generation average: 4337.63%
+2019-06-16 08:39:47,148 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 08:39:47,148 - root - INFO - ***Doing generation 2 of 5***
+2019-06-16 09:07:25,371 - root - INFO - Generation average: 4503.84%
+2019-06-16 09:07:25,371 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 09:07:25,372 - root - INFO - ***Doing generation 3 of 5***
+2019-06-16 09:27:03,288 - root - INFO - Generation average: 4457.51%
+2019-06-16 09:27:03,289 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 09:27:03,289 - root - INFO - ***Doing generation 4 of 5***
+2019-06-16 09:55:56,137 - root - INFO - Generation average: 4560.03%
+2019-06-16 09:55:56,137 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 09:55:56,137 - root - INFO - ***Doing generation 5 of 5***
+2019-06-16 10:28:41,914 - root - INFO - Generation average: 4534.95%
+2019-06-16 10:28:41,914 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 10:28:41,914 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 10:28:41,914 - root - INFO - {'nb_neurons': 24, 'i_neurons': 8, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-06-16 10:28:41,914 - root - INFO - Network accuracy: 4882.90%
+2019-06-16 10:28:41,915 - root - INFO - {'nb_neurons': 16, 'i_neurons': 8, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-06-16 10:28:41,915 - root - INFO - Network accuracy: 4840.37%
+2019-06-16 10:28:41,915 - root - INFO - {'nb_neurons': 24, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-06-16 10:28:41,915 - root - INFO - Network accuracy: 4811.99%
+2019-06-16 10:28:41,915 - root - INFO - {'nb_neurons': 28, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-06-16 10:28:41,915 - root - INFO - Network accuracy: 4808.25%
+2019-06-16 10:28:41,916 - root - INFO - {'nb_neurons': 28, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-06-16 10:28:41,916 - root - INFO - Network accuracy: 4769.65%
+2019-06-16 11:19:52,593 - root - INFO - entrada
+2019-06-16 11:20:27,095 - root - INFO - salida
+2019-06-16 11:20:39,183 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:20:39,195 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 11:20:39,250 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-06-16 11:20:39,282 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:20:39,302 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:20:39,316 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:21:13,219 - root - INFO - entrada
+2019-06-16 11:21:54,012 - root - INFO - salida
+2019-06-16 11:22:21,772 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:22:21,824 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:22:21,844 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:22:21,856 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 11:22:45,202 - root - INFO - ***Evolving 5 generations with population 20***
+2019-06-16 11:22:45,202 - root - INFO - ***Doing generation 1 of 5***
+2019-06-16 12:50:03,597 - root - INFO - Generation average: 4256.06%
+2019-06-16 12:50:03,599 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 12:50:03,603 - root - INFO - ***Doing generation 2 of 5***
+2019-06-16 13:34:37,171 - root - INFO - Generation average: 4428.07%
+2019-06-16 13:34:37,175 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 13:34:37,178 - root - INFO - ***Doing generation 3 of 5***
+2019-06-16 14:29:04,271 - root - INFO - Generation average: 4555.37%
+2019-06-16 14:29:04,272 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 14:29:04,273 - root - INFO - ***Doing generation 4 of 5***
+2019-06-16 15:29:03,716 - root - INFO - Generation average: 4493.73%
+2019-06-16 15:29:03,729 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 15:29:03,736 - root - INFO - ***Doing generation 5 of 5***
+2019-06-16 16:33:31,390 - root - INFO - Generation average: 4699.03%
+2019-06-16 16:33:31,392 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 16:33:31,407 - root - INFO - --------------------------------------------------------------------------------
+2019-06-16 16:33:31,408 - root - INFO - {'nb_neurons': 20, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-06-16 16:33:31,409 - root - INFO - Network accuracy: 7663.43%
+2019-06-16 16:33:31,410 - root - INFO - {'nb_neurons': 28, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-06-16 16:33:31,410 - root - INFO - Network accuracy: 5129.26%
+2019-06-16 16:33:31,411 - root - INFO - {'nb_neurons': 20, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+2019-06-16 16:33:31,411 - root - INFO - Network accuracy: 4864.18%
+2019-06-16 16:33:31,412 - root - INFO - {'nb_neurons': 20, 'i_neurons': 8, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adam'}
+2019-06-16 16:33:31,412 - root - INFO - Network accuracy: 4844.83%
+2019-06-16 16:33:31,413 - root - INFO - {'nb_neurons': 20, 'i_neurons': 8, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam'}
+2019-06-16 16:33:31,413 - root - INFO - Network accuracy: 4791.01%
+2019-06-16 16:37:49,649 - root - INFO - entrada
+2019-06-16 16:39:27,565 - root - INFO - salida
+2019-06-16 16:40:14,244 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 16:40:14,329 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 16:40:14,350 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-06-16 16:40:14,361 - matplotlib.axes._base - DEBUG - update_title_pos

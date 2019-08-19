@@ -1,0 +1,420 @@
+2019-05-21 13:03:42,048 - root - INFO - ***Evolving 1 generations with population 20***
+2019-05-21 13:03:42,049 - root - INFO - ***Doing generation 1 of 1***
+2019-05-21 13:12:21,070 - root - INFO - Generation average: 5794.25%
+2019-05-21 13:12:21,073 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:12:21,076 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:12:21,079 - root - INFO - {'nb_neurons': 4, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-21 13:12:21,080 - root - INFO - Network accuracy: 40.27%
+2019-05-21 13:12:21,082 - root - INFO - {'nb_neurons': 4, 'i_neurons': 4, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-05-21 13:12:21,084 - root - INFO - Network accuracy: 7.79%
+2019-05-21 13:12:21,085 - root - INFO - {'nb_neurons': 10, 'i_neurons': 4, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-05-21 13:12:21,087 - root - INFO - Network accuracy: 7.65%
+2019-05-21 13:12:21,089 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-05-21 13:12:21,091 - root - INFO - Network accuracy: 7.47%
+2019-05-21 13:12:21,093 - root - INFO - {'nb_neurons': 4, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-05-21 13:12:21,094 - root - INFO - Network accuracy: 6.61%
+2019-05-21 13:18:49,279 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 13:18:49,281 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 13:30:05,105 - root - INFO - Generation average: 15381.78%
+2019-05-21 13:30:05,108 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:30:05,110 - root - INFO - ***Doing generation 2 of 5***
+2019-05-21 13:35:53,493 - root - INFO - Generation average: 25828.76%
+2019-05-21 13:35:53,496 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:35:53,500 - root - INFO - ***Doing generation 3 of 5***
+2019-05-21 13:41:51,609 - root - INFO - Generation average: 180375.59%
+2019-05-21 13:41:51,612 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:41:51,615 - root - INFO - ***Doing generation 4 of 5***
+2019-05-21 13:47:07,940 - root - INFO - Generation average: 188331.18%
+2019-05-21 13:47:07,944 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:47:07,948 - root - INFO - ***Doing generation 5 of 5***
+2019-05-21 13:56:23,426 - root - INFO - Generation average: 234224.58%
+2019-05-21 13:56:23,429 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:56:23,431 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 13:56:23,434 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-21 13:56:23,438 - root - INFO - Network accuracy: 2828649.96%
+2019-05-21 13:56:23,441 - root - INFO - {'nb_neurons': 4, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-05-21 13:56:23,444 - root - INFO - Network accuracy: 366505.87%
+2019-05-21 13:56:23,447 - root - INFO - {'nb_neurons': 6, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-05-21 13:56:23,449 - root - INFO - Network accuracy: 233740.96%
+2019-05-21 13:56:23,450 - root - INFO - {'nb_neurons': 6, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-21 13:56:23,452 - root - INFO - Network accuracy: 172450.99%
+2019-05-21 13:56:23,453 - root - INFO - {'nb_neurons': 4, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-21 13:56:23,454 - root - INFO - Network accuracy: 149272.49%
+2019-05-21 14:12:39,915 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 14:12:39,929 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-21 14:12:39,963 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-21 14:12:40,009 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 14:12:40,048 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 14:12:40,071 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 14:17:43,968 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 14:17:43,971 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 14:31:02,451 - root - INFO - Generation average: 3745.31%
+2019-05-21 14:31:02,454 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 14:31:02,457 - root - INFO - ***Doing generation 2 of 5***
+2019-05-21 14:39:04,523 - root - INFO - Generation average: 5569.69%
+2019-05-21 14:39:04,527 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 14:39:04,530 - root - INFO - ***Doing generation 3 of 5***
+2019-05-21 14:48:06,967 - root - INFO - Generation average: 8857.58%
+2019-05-21 14:48:06,971 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 14:48:06,976 - root - INFO - ***Doing generation 4 of 5***
+2019-05-21 14:53:30,242 - root - INFO - Generation average: 9529.07%
+2019-05-21 14:53:30,245 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 14:53:30,248 - root - INFO - ***Doing generation 5 of 5***
+2019-05-21 15:01:30,080 - root - INFO - Generation average: 10135.03%
+2019-05-21 15:01:30,083 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 15:01:30,087 - root - INFO - --------------------------------------------------------------------------------
+2019-05-21 15:01:30,091 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-05-21 15:01:30,096 - root - INFO - Network accuracy: 25289.86%
+2019-05-21 15:01:30,098 - root - INFO - {'nb_neurons': 8, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-05-21 15:01:30,101 - root - INFO - Network accuracy: 21349.71%
+2019-05-21 15:01:30,106 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-05-21 15:01:30,109 - root - INFO - Network accuracy: 16444.89%
+2019-05-21 15:01:30,112 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-05-21 15:01:30,115 - root - INFO - Network accuracy: 12580.93%
+2019-05-21 15:01:30,118 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-05-21 15:01:30,121 - root - INFO - Network accuracy: 12532.33%
+2019-05-21 15:04:48,171 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 15:04:48,253 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 15:04:48,292 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 15:04:48,317 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-21 15:31:16,800 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:31:16,800 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:31:31,807 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-21 15:31:39,782 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:31:39,782 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:31:39,782 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:31:39,782 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:34:34,008 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:34:34,008 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:34:34,009 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:34:34,009 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:34:47,794 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:34:47,794 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:34:47,795 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:34:47,795 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:35:42,128 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:35:42,128 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:35:42,129 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:35:42,129 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:39:47,305 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:39:47,305 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:39:47,305 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:39:47,305 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:40:27,157 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:40:27,157 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:40:27,158 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:40:27,158 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:41:57,067 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:41:57,067 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:41:57,067 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:41:57,067 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:43:58,249 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:43:58,249 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:43:58,249 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:43:58,249 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:44:30,471 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:44:30,471 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:44:30,471 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:44:30,471 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:45:39,693 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:45:39,693 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:45:39,693 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:45:39,693 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:46:44,875 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:46:44,875 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:46:44,876 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:46:44,876 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:48:41,484 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:48:41,484 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:48:41,485 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:48:41,485 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:49:21,416 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:49:21,416 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:49:21,417 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:49:21,417 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:52:49,968 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:52:49,968 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:52:49,968 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:52:49,968 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:55:56,069 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:55:56,069 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 15:55:56,070 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 15:55:56,070 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 16:03:11,410 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 16:03:11,410 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 16:03:11,410 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 16:03:11,410 - root - INFO - ***Doing generation 1 of 5***
+2019-05-21 16:04:24,589 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-21 16:04:25,282 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-21 16:04:25,282 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 17:45:19,540 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 17:48:52,037 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 18:09:51,990 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 18:11:40,885 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:11:40,894 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 18:11:40,916 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 18:11:40,942 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:11:40,962 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:11:40,973 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:14:47,746 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:14:47,789 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:14:47,809 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:14:47,819 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:15:28,653 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:15:28,693 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:15:28,712 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:15:28,725 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:16:48,481 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:16:48,527 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:16:48,549 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:16:48,561 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:17:32,134 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:17:32,173 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:17:32,192 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:17:32,203 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:09,443 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:09,497 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:09,516 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:09,526 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:24,388 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:24,451 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:24,469 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:24,480 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:36,382 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:36,420 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:36,440 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:36,451 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:52,029 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:52,067 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:52,086 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:18:52,097 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:33,133 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:33,173 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:33,192 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:33,203 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:59,440 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:59,492 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:59,531 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:19:59,542 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:20:31,270 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:20:31,313 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:20:31,331 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:20:31,342 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:21:16,360 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:21:16,425 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:21:16,444 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:21:16,455 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:23:44,045 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:23:44,097 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:23:44,116 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:23:44,127 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:24:10,485 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:24:10,554 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:24:10,575 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:24:10,586 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:25:20,175 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:25:20,212 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:25:20,233 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:25:20,243 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:27:35,359 - root - INFO - entrada
+2019-05-22 18:27:49,950 - root - INFO - salida
+2019-05-22 18:28:27,760 - root - INFO - entrada
+2019-05-22 18:28:43,624 - root - INFO - salida
+2019-05-22 18:31:02,649 - root - INFO - entrada
+2019-05-22 18:31:09,238 - root - INFO - salida
+2019-05-22 18:31:13,056 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:31:13,096 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:31:13,116 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:31:13,128 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:32:02,016 - root - INFO - entrada
+2019-05-22 18:32:19,162 - root - INFO - salida
+2019-05-22 18:32:22,466 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:32:22,506 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:32:22,527 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:32:22,538 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 18:42:32,409 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:42:32,409 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:42:32,410 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:42:32,410 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:44:01,448 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 18:44:01,448 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 18:44:32,281 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:44:32,281 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:44:32,281 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:44:32,281 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:44:32,281 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:44:32,281 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:49:14,921 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 18:49:30,256 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 18:49:30,256 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 18:52:06,250 - root - INFO - Generation average: 3333.57%
+2019-05-22 18:52:06,250 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:52:06,251 - root - INFO - ***Doing generation 2 of 5***
+2019-05-22 18:52:29,803 - root - INFO - entrada
+2019-05-22 18:53:02,945 - root - INFO - Generation average: 4301.01%
+2019-05-22 18:53:02,945 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:53:02,945 - root - INFO - ***Doing generation 3 of 5***
+2019-05-22 18:54:21,274 - root - INFO - Generation average: 6089.34%
+2019-05-22 18:54:21,274 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:54:21,275 - root - INFO - ***Doing generation 4 of 5***
+2019-05-22 18:55:26,310 - root - INFO - salida
+2019-05-22 18:55:35,764 - root - INFO - Generation average: 6327.35%
+2019-05-22 18:55:35,764 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:55:35,765 - root - INFO - ***Doing generation 5 of 5***
+2019-05-22 18:57:22,171 - root - INFO - Generation average: 7077.93%
+2019-05-22 18:57:22,171 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:57:22,172 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 18:57:22,172 - root - INFO - {'nb_neurons': 8, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-22 18:57:22,172 - root - INFO - Network accuracy: 21596.65%
+2019-05-22 18:57:22,172 - root - INFO - {'nb_neurons': 16, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-22 18:57:22,173 - root - INFO - Network accuracy: 10458.21%
+2019-05-22 18:57:22,173 - root - INFO - {'nb_neurons': 16, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-22 18:57:22,173 - root - INFO - Network accuracy: 9647.12%
+2019-05-22 18:57:22,173 - root - INFO - {'nb_neurons': 16, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-22 18:57:22,174 - root - INFO - Network accuracy: 9366.88%
+2019-05-22 18:57:22,174 - root - INFO - {'nb_neurons': 8, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-05-22 18:57:22,174 - root - INFO - Network accuracy: 8771.46%
+2019-05-22 19:14:17,952 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:14:17,956 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:14:17,972 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:14:17,998 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:14:18,018 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:14:18,030 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:15:33,561 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:15:33,604 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:15:33,627 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:15:33,639 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:17:40,751 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:17:40,794 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:17:40,815 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:17:40,827 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:19:01,782 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:19:01,821 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:19:01,842 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:19:01,849 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:20:10,008 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:20:10,051 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:20:10,090 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:20:10,102 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:20:59,805 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-22 19:21:12,127 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:21:12,184 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:21:12,204 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:21:12,216 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:22:02,585 - root - INFO - entrada
+2019-05-22 19:22:12,075 - root - INFO - salida
+2019-05-22 19:22:42,400 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:22:42,443 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:22:42,464 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:22:42,477 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:24:11,736 - root - INFO - entrada
+2019-05-22 19:24:22,307 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:24:22,348 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:24:22,371 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:24:22,382 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:24:55,010 - root - INFO - entrada
+2019-05-22 19:25:08,326 - root - INFO - entrada
+2019-05-22 19:25:21,244 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:25:21,286 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:25:21,307 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:25:21,318 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:25:48,998 - root - INFO - entrada
+2019-05-22 19:26:01,517 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:01,559 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:01,580 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:01,592 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:20,001 - root - INFO - entrada
+2019-05-22 19:26:29,338 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:29,379 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:29,400 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:26:29,411 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:14,563 - root - INFO - entrada
+2019-05-22 19:27:25,840 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:25,881 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:25,902 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:25,914 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:48,135 - root - INFO - entrada
+2019-05-22 19:27:58,660 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:58,701 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:58,721 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:27:58,732 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:28:46,344 - root - INFO - entrada
+2019-05-22 19:29:01,535 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:29:01,594 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:29:01,615 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:29:01,626 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:29:10,337 - root - INFO - ***Evolving 5 generations with population 20***
+2019-05-22 19:29:10,338 - root - INFO - ***Doing generation 1 of 5***
+2019-05-22 19:31:21,493 - root - INFO - entrada
+2019-05-22 19:33:49,726 - root - INFO - Generation average: 11070.65%
+2019-05-22 19:33:49,727 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:33:49,727 - root - INFO - ***Doing generation 2 of 5***
+2019-05-22 19:37:41,873 - root - INFO - Generation average: 26176.27%
+2019-05-22 19:37:41,873 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:37:41,874 - root - INFO - ***Doing generation 3 of 5***
+2019-05-22 19:40:46,572 - root - INFO - Generation average: 28025.80%
+2019-05-22 19:40:46,573 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:40:46,573 - root - INFO - ***Doing generation 4 of 5***
+2019-05-22 19:41:52,640 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,644 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,664 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,706 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,733 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,745 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:43:50,305 - root - INFO - Generation average: 30575.63%
+2019-05-22 19:43:50,306 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:43:50,306 - root - INFO - ***Doing generation 5 of 5***
+2019-05-22 19:43:54,198 - root - INFO - entrada
+2019-05-22 19:46:35,519 - root - INFO - Generation average: 35992.14%
+2019-05-22 19:46:35,519 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:46:35,519 - root - INFO - --------------------------------------------------------------------------------
+2019-05-22 19:46:35,519 - root - INFO - {'nb_neurons': 16, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam'}
+2019-05-22 19:46:35,520 - root - INFO - Network accuracy: 239366.22%
+2019-05-22 19:46:35,520 - root - INFO - {'nb_neurons': 4, 'i_neurons': 12, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-05-22 19:46:35,520 - root - INFO - Network accuracy: 155392.60%
+2019-05-22 19:46:35,520 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-05-22 19:46:35,520 - root - INFO - Network accuracy: 57316.34%
+2019-05-22 19:46:35,521 - root - INFO - {'nb_neurons': 4, 'i_neurons': 12, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-05-22 19:46:35,521 - root - INFO - Network accuracy: 42826.54%
+2019-05-22 19:46:35,521 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-05-22 19:46:35,521 - root - INFO - Network accuracy: 30168.44%
+2019-05-22 19:47:47,789 - root - INFO - entrada
+2019-05-22 19:50:11,131 - root - INFO - entrada
+2019-05-22 19:50:21,437 - root - INFO - salida
+2019-05-22 19:50:28,397 - root - INFO - salida
+2019-05-22 19:50:34,501 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:50:34,542 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:50:34,562 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:50:34,573 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:51:12,227 - root - INFO - entrada
+2019-05-22 19:51:26,458 - root - INFO - salida
+2019-05-22 19:51:42,163 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:51:42,203 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:51:42,223 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:51:42,233 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:52:13,917 - root - INFO - entrada
+2019-05-22 19:52:39,859 - root - INFO - salida
+2019-05-22 19:52:46,827 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:52:46,867 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:52:46,886 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:52:46,896 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:54:50,743 - root - INFO - entrada
+2019-05-22 19:55:18,411 - root - INFO - salida
+2019-05-22 19:55:27,128 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:55:27,169 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:55:27,189 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:55:27,200 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:56:14,810 - root - INFO - entrada
+2019-05-22 19:56:28,661 - root - INFO - salida
+2019-05-22 19:56:41,625 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:56:41,665 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:56:41,685 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:56:41,697 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:57:50,599 - root - INFO - entrada
+2019-05-22 19:58:03,887 - root - INFO - salida
+2019-05-22 19:58:25,806 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:58:25,863 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:58:25,888 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:58:25,921 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:58:31,922 - root - INFO - entrada
+2019-05-22 19:58:43,751 - root - INFO - salida

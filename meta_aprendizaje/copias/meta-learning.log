@@ -1,0 +1,1656 @@
+2019-07-29 15:09:17,248 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 15:09:18,242 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-29 15:09:18,243 - root - INFO - Empieza la serie Serie 1 
+2019-07-29 15:09:18,246 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,257 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,257 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,257 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,292 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,301 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,308 - root - INFO - Empieza la serie Serie 2 
+2019-07-29 15:09:18,310 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,316 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,316 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,316 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,321 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,330 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,336 - root - INFO - Empieza la serie Serie 3 
+2019-07-29 15:09:18,338 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,345 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,345 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,345 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,351 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,360 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,366 - root - INFO - Empieza la serie Serie 4 
+2019-07-29 15:09:18,368 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,374 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,374 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,375 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,381 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,389 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,395 - root - INFO - Empieza la serie Serie 5 
+2019-07-29 15:09:18,397 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,402 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,403 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,403 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,407 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,414 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,420 - root - INFO - Empieza la serie Serie 6 
+2019-07-29 15:09:18,422 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,427 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,428 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,428 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,432 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,439 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,445 - root - INFO - Empieza la serie Serie 7 
+2019-07-29 15:09:18,447 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,452 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,452 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,452 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,457 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,465 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,471 - root - INFO - Empieza la serie Serie 8 
+2019-07-29 15:09:18,473 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,478 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,478 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,479 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,483 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,492 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,498 - root - INFO - Empieza la serie Serie 9 
+2019-07-29 15:09:18,500 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,505 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,505 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,505 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,511 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,519 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,525 - root - INFO - Empieza la serie Serie 10 
+2019-07-29 15:09:18,527 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,532 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,533 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,533 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,538 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,556 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,562 - root - INFO - Empieza la serie Serie 11 
+2019-07-29 15:09:18,564 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,570 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,570 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,571 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,576 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,583 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:09:18,589 - root - INFO - Empieza la serie Serie 12 
+2019-07-29 15:09:18,592 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:09:18,597 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:09:18,597 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:09:18,597 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:09:18,602 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+NameError: name 'LSTM' is not defined
+2019-07-29 15:09:18,609 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:03,347 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 15:11:04,337 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-29 15:11:04,338 - root - INFO - Empieza la serie Serie 1 
+2019-07-29 15:11:04,341 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,346 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,347 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,347 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,377 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_1: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,384 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,387 - root - INFO - Empieza la serie Serie 2 
+2019-07-29 15:11:04,389 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,391 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,392 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,392 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,397 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_2: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,402 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,405 - root - INFO - Empieza la serie Serie 3 
+2019-07-29 15:11:04,407 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,410 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,410 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,410 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,416 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_3: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,421 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,424 - root - INFO - Empieza la serie Serie 4 
+2019-07-29 15:11:04,426 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,429 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,429 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,429 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,435 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_4: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,440 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,442 - root - INFO - Empieza la serie Serie 5 
+2019-07-29 15:11:04,444 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,446 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,447 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,447 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,453 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_5: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,458 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,461 - root - INFO - Empieza la serie Serie 6 
+2019-07-29 15:11:04,463 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,466 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,466 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,466 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,473 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_6: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,478 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,481 - root - INFO - Empieza la serie Serie 7 
+2019-07-29 15:11:04,483 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,486 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,486 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,486 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,492 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_7: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,497 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,500 - root - INFO - Empieza la serie Serie 8 
+2019-07-29 15:11:04,502 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,504 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,504 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,504 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,511 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_8: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,515 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,518 - root - INFO - Empieza la serie Serie 9 
+2019-07-29 15:11:04,520 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,523 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,523 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,523 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,529 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_9: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,534 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,540 - root - INFO - Empieza la serie Serie 10 
+2019-07-29 15:11:04,542 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,545 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,545 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,545 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,551 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_10: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,557 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,560 - root - INFO - Empieza la serie Serie 11 
+2019-07-29 15:11:04,562 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,565 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,565 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,565 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,572 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_11: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,577 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:11:04,581 - root - INFO - Empieza la serie Serie 12 
+2019-07-29 15:11:04,583 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:11:04,585 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:11:04,585 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:11:04,586 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:11:04,592 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_12: expected ndim=3, found ndim=2
+2019-07-29 15:11:04,601 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:15,964 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 15:12:16,959 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-29 15:12:16,959 - root - INFO - Empieza la serie Serie 1 
+2019-07-29 15:12:16,962 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:16,966 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:16,966 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:16,967 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,005 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_1: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,014 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,018 - root - INFO - Empieza la serie Serie 2 
+2019-07-29 15:12:17,019 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,023 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,023 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,023 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,030 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_2: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,035 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,038 - root - INFO - Empieza la serie Serie 3 
+2019-07-29 15:12:17,040 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,043 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,043 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,043 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,050 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_3: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,055 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,058 - root - INFO - Empieza la serie Serie 4 
+2019-07-29 15:12:17,059 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,062 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,062 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,062 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,069 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_4: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,073 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,076 - root - INFO - Empieza la serie Serie 5 
+2019-07-29 15:12:17,078 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,080 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,080 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,080 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,086 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_5: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,091 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,093 - root - INFO - Empieza la serie Serie 6 
+2019-07-29 15:12:17,095 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,097 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,097 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,097 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,104 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_6: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,109 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,111 - root - INFO - Empieza la serie Serie 7 
+2019-07-29 15:12:17,113 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,115 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,115 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,115 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,121 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_7: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,126 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,129 - root - INFO - Empieza la serie Serie 8 
+2019-07-29 15:12:17,131 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,133 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,133 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,133 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,140 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_8: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,145 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,149 - root - INFO - Empieza la serie Serie 9 
+2019-07-29 15:12:17,151 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,154 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,154 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,154 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,161 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_9: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,166 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,171 - root - INFO - Empieza la serie Serie 10 
+2019-07-29 15:12:17,173 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,176 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,176 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,176 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,183 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 305, in compile_model
+    model.add(LSTM(units=nb_neurons, activation = activation, input_shape=input_shape))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_10: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,188 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,191 - root - INFO - Empieza la serie Serie 11 
+2019-07-29 15:12:17,193 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,196 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,196 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,196 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,203 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_11: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,209 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:12:17,212 - root - INFO - Empieza la serie Serie 12 
+2019-07-29 15:12:17,214 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:12:17,217 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:12:17,217 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:12:17,217 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:12:17,226 - root - ERROR - Exception occurred
+Traceback (most recent call last):
+  File "<ipython-input-3-69639789cee0>", line 37, in <module>
+    LSTM = LSTM_Function.main(steps_ahead,test_size,Serie,i)[0].mse
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 452, in main
+    networks = generate(generations, population, nn_param_choices)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 398, in generate
+    train_networks(networks)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 359, in train_networks
+    network.train()
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 257, in train
+    mse = train_and_score(self.network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 331, in train_and_score
+    model = compile_model(network)
+  File "C:\Users\hug0er\Documents\Tesis\meta_aprendizaje\LSTM_Function.py", line 298, in compile_model
+    model.add(LSTM(units=nb_neurons, return_sequences=True, input_shape=input_shape, activation = activation))
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\sequential.py", line 165, in add
+    layer(x)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\layers\recurrent.py", line 532, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 414, in __call__
+    self.assert_input_compatibility(inputs)
+  File "C:\Users\hug0er\Anaconda3\lib\site-packages\keras\engine\base_layer.py", line 311, in assert_input_compatibility
+    str(K.ndim(x)))
+ValueError: Input 0 is incompatible with layer lstm_12: expected ndim=3, found ndim=2
+2019-07-29 15:12:17,233 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 15:13:22,610 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-29 15:13:22,610 - root - INFO - Empieza la serie Serie 1 
+2019-07-29 15:13:22,612 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:13:22,616 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:13:22,616 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:13:22,616 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:54:18,097 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 15:54:19,083 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-29 15:54:19,084 - root - INFO - Empieza la serie Serie 1 
+2019-07-29 15:54:19,088 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 15:54:19,094 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 15:54:19,094 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 15:54:19,094 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 15:54:19,135 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 15:54:19,412 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-29 15:56:38,613 - root - INFO - Generation average: 0.0088344449%
+2019-07-29 15:56:38,614 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 15:56:38,614 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 15:59:00,585 - root - INFO - Generation average: 0.0076105782%
+2019-07-29 15:59:00,585 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 15:59:00,586 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 16:02:05,035 - root - INFO - Generation average: 0.0074775595%
+2019-07-29 16:02:05,035 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:02:05,036 - root - INFO - ***Doing generation 4 of 5***
+2019-07-29 16:05:30,607 - root - INFO - Generation average: 0.0069086557%
+2019-07-29 16:05:30,607 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:05:30,607 - root - INFO - ***Doing generation 5 of 5***
+2019-07-29 16:09:29,967 - root - INFO - Generation average: 0.0066365380%
+2019-07-29 16:09:29,967 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:09:29,967 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:09:29,967 - root - INFO - {'nb_neurons': 10, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:09:29,967 - root - INFO - Network MSE: 0.0030588517%
+2019-07-29 16:09:29,967 - root - INFO - {'nb_neurons': 10, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:09:29,968 - root - INFO - Network MSE: 0.0042890338%
+2019-07-29 16:09:29,968 - root - INFO - {'nb_neurons': 10, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:09:29,968 - root - INFO - Network MSE: 0.0044904668%
+2019-07-29 16:09:29,968 - root - INFO - {'nb_neurons': 10, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:09:29,968 - root - INFO - Network MSE: 0.0058588940%
+2019-07-29 16:09:29,968 - root - INFO - {'nb_neurons': 20, 'i_neurons': 6, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:09:29,968 - root - INFO - Network MSE: 0.0077689984%
+2019-07-29 16:09:29,976 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 16:09:29,983 - root - INFO - Empieza la serie Serie 2 
+2019-07-29 16:09:29,985 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 16:09:29,991 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 16:09:29,992 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 16:09:29,992 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 16:18:43,049 - root - INFO - Generation average: 0.0169256196%
+2019-07-29 16:18:43,049 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:18:43,049 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 16:26:49,013 - root - INFO - Generation average: 0.0035453839%
+2019-07-29 16:26:49,013 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:26:49,014 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 16:36:55,089 - root - INFO - Generation average: 0.0027925051%
+2019-07-29 16:36:55,090 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:36:55,090 - root - INFO - ***Doing generation 4 of 5***
+2019-07-29 16:46:28,929 - root - INFO - Generation average: 0.0037070531%
+2019-07-29 16:46:28,930 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:46:28,930 - root - INFO - ***Doing generation 5 of 5***
+2019-07-29 16:56:44,575 - root - INFO - Generation average: 0.0007085875%
+2019-07-29 16:56:44,576 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:56:44,576 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 16:56:44,576 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-29 16:56:44,576 - root - INFO - Network MSE: 0.0000778886%
+2019-07-29 16:56:44,577 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 16:56:44,577 - root - INFO - Network MSE: 0.0023701668%
+2019-07-29 16:56:44,578 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 16:56:44,578 - root - INFO - Network MSE: 0.0054192692%
+2019-07-29 16:56:44,578 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-07-29 16:56:44,579 - root - INFO - Network MSE: 0.0062394808%
+2019-07-29 16:56:44,579 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 16:56:44,580 - root - INFO - Network MSE: 0.0068637417%
+2019-07-29 16:56:44,592 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 16:56:44,601 - root - INFO - Empieza la serie Serie 3 
+2019-07-29 16:56:44,603 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 16:56:44,612 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 16:56:44,612 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 16:56:44,612 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 17:13:56,225 - root - INFO - Generation average: 0.0204616862%
+2019-07-29 17:13:56,226 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 17:13:56,226 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 17:31:13,686 - root - INFO - Generation average: 0.0039469684%
+2019-07-29 17:31:13,687 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 17:31:13,687 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 17:45:33,745 - root - INFO - Generation average: 0.0027229134%
+2019-07-29 17:45:33,745 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 17:45:33,746 - root - INFO - ***Doing generation 4 of 5***
+2019-07-29 18:01:28,046 - root - INFO - Generation average: 0.0027946568%
+2019-07-29 18:01:28,047 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 18:01:28,048 - root - INFO - ***Doing generation 5 of 5***
+2019-07-29 18:19:16,396 - root - INFO - Generation average: 0.0025585137%
+2019-07-29 18:19:16,397 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 18:19:16,398 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 18:19:16,398 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 18:19:16,398 - root - INFO - Network MSE: 0.0008002382%
+2019-07-29 18:19:16,398 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 18:19:16,398 - root - INFO - Network MSE: 0.0021087003%
+2019-07-29 18:19:16,399 - root - INFO - {'nb_neurons': 30, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 18:19:16,400 - root - INFO - Network MSE: 0.0022240926%
+2019-07-29 18:19:16,401 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 18:19:16,402 - root - INFO - Network MSE: 0.0024066195%
+2019-07-29 18:19:16,402 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 18:19:16,403 - root - INFO - Network MSE: 0.0027091289%
+2019-07-29 18:19:16,451 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 18:19:16,461 - root - INFO - Empieza la serie Serie 4 
+2019-07-29 18:19:16,476 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 18:19:16,485 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 18:19:16,485 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 18:19:16,486 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 18:39:38,353 - root - INFO - Generation average: 0.0206097782%
+2019-07-29 18:39:38,354 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 18:39:38,356 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 19:01:41,375 - root - INFO - Generation average: 0.0137532415%
+2019-07-29 19:01:41,376 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 19:01:41,377 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 19:27:28,826 - root - INFO - Generation average: 0.0098138755%
+2019-07-29 19:27:28,827 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 19:27:28,828 - root - INFO - ***Doing generation 4 of 5***
+2019-07-29 19:55:06,378 - root - INFO - Generation average: 0.0097306042%
+2019-07-29 19:55:06,379 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 19:55:06,381 - root - INFO - ***Doing generation 5 of 5***
+2019-07-29 20:21:52,402 - root - INFO - Generation average: 0.0094964951%
+2019-07-29 20:21:52,402 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 20:21:52,403 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 20:21:52,404 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 20:21:52,404 - root - INFO - Network MSE: 0.0083954092%
+2019-07-29 20:21:52,404 - root - INFO - {'nb_neurons': 50, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-29 20:21:52,404 - root - INFO - Network MSE: 0.0087068668%
+2019-07-29 20:21:52,405 - root - INFO - {'nb_neurons': 50, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-29 20:21:52,406 - root - INFO - Network MSE: 0.0090798019%
+2019-07-29 20:21:52,407 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-29 20:21:52,409 - root - INFO - Network MSE: 0.0094260434%
+2019-07-29 20:21:52,409 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 20:21:52,409 - root - INFO - Network MSE: 0.0095190946%
+2019-07-29 20:21:52,446 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 20:21:52,454 - root - INFO - Empieza la serie Serie 5 
+2019-07-29 20:21:52,456 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 20:21:52,465 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 20:21:52,465 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 20:21:52,465 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 20:55:12,022 - root - INFO - Generation average: 0.0043537126%
+2019-07-29 20:55:12,023 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 20:55:12,024 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 21:33:54,227 - root - INFO - Generation average: 0.0074724577%
+2019-07-29 21:33:54,228 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 21:33:54,230 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 22:18:08,157 - root - INFO - Generation average: 0.0049117758%
+2019-07-29 22:18:08,158 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 22:18:08,160 - root - INFO - ***Doing generation 4 of 5***
+2019-07-29 23:06:31,445 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:07:13,999 - root - INFO - Generation average: 0.0050661707%
+2019-07-29 23:07:14,002 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 23:07:14,004 - root - INFO - ***Doing generation 5 of 5***
+2019-07-29 23:08:58,266 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:08:58,266 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:08:58,295 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:08:58,322 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:10:32,969 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:11:00,485 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:11:01,502 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:11:01,502 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:11:01,549 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:11:01,575 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:11:51,683 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:11:52,893 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:11:52,893 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:11:52,926 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:11:52,966 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:14:34,731 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:14:35,712 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:14:35,712 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:15:10,399 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:15:11,437 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:15:11,437 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:15:11,470 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:15:11,497 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:21:11,307 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:21:12,320 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:21:12,320 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:21:54,583 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:21:55,838 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:21:55,839 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:21:55,878 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:21:55,903 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:24:25,495 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:24:26,534 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:24:26,535 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:24:26,584 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:24:26,614 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:26:01,973 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:26:03,143 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:26:03,144 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:26:03,179 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:26:03,209 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:29:26,736 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:29:27,774 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:29:27,775 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:29:27,805 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:29:27,820 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:29:27,979 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-29 23:45:53,045 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:45:54,060 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:45:54,060 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:46:49,175 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-29 23:46:50,365 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:46:50,366 - root - INFO - ***Doing generation 1 of 5***
+2019-07-29 23:46:50,405 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-29 23:46:50,430 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-07-29 23:46:50,546 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-29 23:47:15,376 - root - INFO - Generation average: 0.0167858780%
+2019-07-29 23:47:15,376 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 23:47:15,376 - root - INFO - ***Doing generation 2 of 5***
+2019-07-29 23:47:48,272 - root - INFO - Generation average: 0.0153348067%
+2019-07-29 23:47:48,272 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 23:47:48,272 - root - INFO - ***Doing generation 3 of 5***
+2019-07-29 23:57:56,291 - root - INFO - Generation average: 0.0031088661%
+2019-07-29 23:57:56,295 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 23:57:56,297 - root - INFO - --------------------------------------------------------------------------------
+2019-07-29 23:57:56,297 - root - INFO - {'nb_neurons': 30, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-29 23:57:56,297 - root - INFO - Network MSE: 0.0020932651%
+2019-07-29 23:57:56,299 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 23:57:56,300 - root - INFO - Network MSE: 0.0021322377%
+2019-07-29 23:57:56,300 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 23:57:56,302 - root - INFO - Network MSE: 0.0024120195%
+2019-07-29 23:57:56,303 - root - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-29 23:57:56,305 - root - INFO - Network MSE: 0.0024754852%
+2019-07-29 23:57:56,306 - root - INFO - {'nb_neurons': 30, 'i_neurons': 6, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-29 23:57:56,306 - root - INFO - Network MSE: 0.0027822691%
+2019-07-29 23:57:56,377 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-29 23:57:56,389 - root - INFO - Empieza la serie Serie 6 
+2019-07-29 23:57:56,410 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-29 23:57:56,422 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-29 23:57:56,422 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-29 23:57:56,423 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 00:51:24,935 - root - INFO - Generation average: 0.0101185277%
+2019-07-30 00:51:24,937 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 00:51:24,938 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 01:47:31,594 - root - INFO - Generation average: 0.0094428499%
+2019-07-30 01:47:31,596 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 01:47:31,598 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 02:44:49,437 - root - INFO - Generation average: 0.0087946525%
+2019-07-30 02:44:49,438 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 02:44:49,440 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 03:45:18,110 - root - INFO - Generation average: 0.0091740059%
+2019-07-30 03:45:18,112 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 03:45:18,114 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 04:55:52,447 - root - INFO - Generation average: 0.0085111211%
+2019-07-30 04:55:52,450 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 04:55:52,452 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 04:55:52,453 - root - INFO - {'nb_neurons': 30, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-30 04:55:52,454 - root - INFO - Network MSE: 0.0080201495%
+2019-07-30 04:55:52,456 - root - INFO - {'nb_neurons': 30, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-30 04:55:52,458 - root - INFO - Network MSE: 0.0081179664%
+2019-07-30 04:55:52,460 - root - INFO - {'nb_neurons': 30, 'i_neurons': 4, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-30 04:55:52,462 - root - INFO - Network MSE: 0.0081677604%
+2019-07-30 04:55:52,462 - root - INFO - {'nb_neurons': 30, 'i_neurons': 4, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-30 04:55:52,464 - root - INFO - Network MSE: 0.0081824400%
+2019-07-30 04:55:52,466 - root - INFO - {'nb_neurons': 30, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+2019-07-30 04:55:52,467 - root - INFO - Network MSE: 0.0083539831%
+2019-07-30 04:55:52,604 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 04:55:52,618 - root - INFO - Empieza la serie Serie 7 
+2019-07-30 04:55:52,671 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 04:55:52,682 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 04:55:52,682 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 04:55:52,683 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 06:12:46,069 - root - INFO - Generation average: 0.0094377537%
+2019-07-30 06:12:46,071 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 06:12:46,073 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 07:39:13,786 - root - INFO - Generation average: 0.0055713574%
+2019-07-30 07:39:13,800 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 07:39:13,809 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 09:15:23,421 - root - INFO - Generation average: 0.0046022360%
+2019-07-30 09:15:23,423 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 09:15:23,425 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 10:52:31,890 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-30 10:54:29,987 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-30 10:54:38,029 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-30 10:54:38,029 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-30 10:54:38,030 - root - INFO - Empieza la serie Serie 7 
+2019-07-30 10:54:38,030 - root - INFO - Empieza la serie Serie 7 
+2019-07-30 10:54:38,036 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 10:54:38,036 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 10:54:38,043 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 10:54:38,043 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 10:54:38,043 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 10:54:38,043 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 10:54:38,043 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 10:54:38,043 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 10:54:38,085 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-30 10:54:38,085 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-30 10:54:38,682 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-30 10:54:38,682 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-30 10:58:10,415 - root - INFO - Generation average: 0.0153622206%
+2019-07-30 10:58:10,415 - root - INFO - Generation average: 0.0153622206%
+2019-07-30 10:58:10,415 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 10:58:10,415 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 10:58:10,415 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 10:58:10,415 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 11:01:52,273 - root - INFO - Generation average: 0.0117912148%
+2019-07-30 11:01:52,273 - root - INFO - Generation average: 0.0117912148%
+2019-07-30 11:01:52,274 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:01:52,274 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:01:52,274 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 11:01:52,274 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 11:07:37,903 - root - INFO - Generation average: 0.0032575428%
+2019-07-30 11:07:37,903 - root - INFO - Generation average: 0.0032575428%
+2019-07-30 11:07:37,903 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:07:37,903 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:07:37,904 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 11:07:37,904 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 11:14:28,632 - root - INFO - Generation average: 0.0054641174%
+2019-07-30 11:14:28,632 - root - INFO - Generation average: 0.0054641174%
+2019-07-30 11:14:28,632 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:14:28,632 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:14:28,632 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 11:14:28,632 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 11:24:54,215 - root - INFO - Generation average: 0.0045608974%
+2019-07-30 11:24:54,215 - root - INFO - Generation average: 0.0045608974%
+2019-07-30 11:24:54,215 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:24:54,215 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:24:54,215 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:24:54,215 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:24:54,216 - root - INFO - {'nb_neurons': 30, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,216 - root - INFO - {'nb_neurons': 30, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,216 - root - INFO - Network MSE: 0.0024161863%
+2019-07-30 11:24:54,216 - root - INFO - Network MSE: 0.0024161863%
+2019-07-30 11:24:54,216 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,216 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,217 - root - INFO - Network MSE: 0.0025644375%
+2019-07-30 11:24:54,217 - root - INFO - Network MSE: 0.0025644375%
+2019-07-30 11:24:54,217 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-30 11:24:54,217 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-30 11:24:54,217 - root - INFO - Network MSE: 0.0026561639%
+2019-07-30 11:24:54,217 - root - INFO - Network MSE: 0.0026561639%
+2019-07-30 11:24:54,218 - root - INFO - {'nb_neurons': 30, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,218 - root - INFO - {'nb_neurons': 30, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 11:24:54,218 - root - INFO - Network MSE: 0.0030707943%
+2019-07-30 11:24:54,218 - root - INFO - Network MSE: 0.0030707943%
+2019-07-30 11:24:54,218 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-30 11:24:54,218 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+2019-07-30 11:24:54,219 - root - INFO - Network MSE: 0.0068757311%
+2019-07-30 11:24:54,219 - root - INFO - Network MSE: 0.0068757311%
+2019-07-30 11:24:54,227 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 11:24:54,227 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 11:24:54,234 - root - INFO - Empieza la serie Serie 8 
+2019-07-30 11:24:54,234 - root - INFO - Empieza la serie Serie 8 
+2019-07-30 11:24:54,237 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 11:24:54,237 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 11:24:54,244 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 11:24:54,244 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 11:24:54,244 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 11:24:54,244 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 11:24:54,244 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 11:24:54,244 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 11:31:45,950 - root - INFO - Generation average: 0.0178577669%
+2019-07-30 11:31:45,950 - root - INFO - Generation average: 0.0178577669%
+2019-07-30 11:31:45,950 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:31:45,950 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:31:45,951 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 11:31:45,951 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 11:39:05,913 - root - INFO - Generation average: 0.0166913935%
+2019-07-30 11:39:05,913 - root - INFO - Generation average: 0.0166913935%
+2019-07-30 11:39:05,914 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:39:05,914 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:39:05,915 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 11:39:05,915 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 11:49:29,593 - root - INFO - Generation average: 0.0136671423%
+2019-07-30 11:49:29,593 - root - INFO - Generation average: 0.0136671423%
+2019-07-30 11:49:29,593 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:49:29,593 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 11:49:29,594 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 11:49:29,594 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 12:00:57,631 - root - INFO - Generation average: 0.0109394692%
+2019-07-30 12:00:57,631 - root - INFO - Generation average: 0.0109394692%
+2019-07-30 12:00:57,631 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:00:57,631 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:00:57,632 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 12:00:57,632 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 12:12:19,751 - root - INFO - Generation average: 0.0122563690%
+2019-07-30 12:12:19,751 - root - INFO - Generation average: 0.0122563690%
+2019-07-30 12:12:19,753 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:12:19,753 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:12:19,753 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:12:19,753 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:12:19,753 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,753 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,754 - root - INFO - Network MSE: 0.0064344867%
+2019-07-30 12:12:19,754 - root - INFO - Network MSE: 0.0064344867%
+2019-07-30 12:12:19,755 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,755 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,756 - root - INFO - Network MSE: 0.0094493218%
+2019-07-30 12:12:19,756 - root - INFO - Network MSE: 0.0094493218%
+2019-07-30 12:12:19,757 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,757 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,758 - root - INFO - Network MSE: 0.0107609751%
+2019-07-30 12:12:19,758 - root - INFO - Network MSE: 0.0107609751%
+2019-07-30 12:12:19,759 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-30 12:12:19,759 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-30 12:12:19,760 - root - INFO - Network MSE: 0.0137746725%
+2019-07-30 12:12:19,760 - root - INFO - Network MSE: 0.0137746725%
+2019-07-30 12:12:19,760 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,760 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adam'}
+2019-07-30 12:12:19,760 - root - INFO - Network MSE: 0.0138780382%
+2019-07-30 12:12:19,760 - root - INFO - Network MSE: 0.0138780382%
+2019-07-30 12:12:19,770 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 12:12:19,770 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 12:12:19,777 - root - INFO - Empieza la serie Serie 9 
+2019-07-30 12:12:19,777 - root - INFO - Empieza la serie Serie 9 
+2019-07-30 12:12:19,779 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 12:12:19,779 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 12:12:19,787 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 12:12:19,787 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 12:12:19,787 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 12:12:19,787 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 12:12:19,787 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 12:12:19,787 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 12:27:48,422 - root - INFO - Generation average: 0.0007465416%
+2019-07-30 12:27:48,422 - root - INFO - Generation average: 0.0007465416%
+2019-07-30 12:27:48,424 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:27:48,424 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:27:48,425 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 12:27:48,425 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 12:47:11,237 - root - INFO - Generation average: 0.0004850236%
+2019-07-30 12:47:11,237 - root - INFO - Generation average: 0.0004850236%
+2019-07-30 12:47:11,239 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:47:11,239 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 12:47:11,239 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 12:47:11,239 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 13:07:29,546 - root - INFO - Generation average: 0.0003436724%
+2019-07-30 13:07:29,546 - root - INFO - Generation average: 0.0003436724%
+2019-07-30 13:07:29,548 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:07:29,548 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:07:29,548 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 13:07:29,548 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 13:29:09,576 - root - INFO - Generation average: 0.0006892118%
+2019-07-30 13:29:09,576 - root - INFO - Generation average: 0.0006892118%
+2019-07-30 13:29:09,578 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:29:09,578 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:29:09,578 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 13:29:09,578 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 13:54:17,630 - root - INFO - Generation average: 0.0000866033%
+2019-07-30 13:54:17,630 - root - INFO - Generation average: 0.0000866033%
+2019-07-30 13:54:17,632 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:54:17,632 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:54:17,633 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:54:17,633 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 13:54:17,633 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,633 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,635 - root - INFO - Network MSE: 0.0000150725%
+2019-07-30 13:54:17,635 - root - INFO - Network MSE: 0.0000150725%
+2019-07-30 13:54:17,636 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,636 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,638 - root - INFO - Network MSE: 0.0000273705%
+2019-07-30 13:54:17,638 - root - INFO - Network MSE: 0.0000273705%
+2019-07-30 13:54:17,639 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,639 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,641 - root - INFO - Network MSE: 0.0001359563%
+2019-07-30 13:54:17,641 - root - INFO - Network MSE: 0.0001359563%
+2019-07-30 13:54:17,643 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,643 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,643 - root - INFO - Network MSE: 0.0005517023%
+2019-07-30 13:54:17,643 - root - INFO - Network MSE: 0.0005517023%
+2019-07-30 13:54:17,645 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,645 - root - INFO - {'nb_neurons': 50, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 13:54:17,647 - root - INFO - Network MSE: 0.0008023335%
+2019-07-30 13:54:17,647 - root - INFO - Network MSE: 0.0008023335%
+2019-07-30 13:54:17,683 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 13:54:17,683 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 13:54:17,693 - root - INFO - Empieza la serie Serie 10 
+2019-07-30 13:54:17,693 - root - INFO - Empieza la serie Serie 10 
+2019-07-30 13:54:17,711 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 13:54:17,711 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 13:54:17,720 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 13:54:17,720 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 13:54:17,720 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 13:54:17,720 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 13:54:17,721 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 13:54:17,721 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 14:06:34,036 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-07-30 14:07:37,782 - root - INFO - Empezando proceso de llenado de tabla
+2019-07-30 14:07:37,783 - root - INFO - Empieza la serie Serie 10 
+2019-07-30 14:07:37,801 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 14:07:37,808 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 14:07:37,808 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 14:07:37,808 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 14:07:37,849 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-07-30 14:07:38,641 - tensorflow - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-07-30 14:10:34,023 - root - INFO - Generation average: 0.0015781921%
+2019-07-30 14:10:34,024 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:10:34,024 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 14:15:33,031 - root - INFO - Generation average: 0.0010331570%
+2019-07-30 14:15:33,031 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:15:33,032 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 14:21:20,858 - root - INFO - Generation average: 0.0007471655%
+2019-07-30 14:21:20,859 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:21:20,859 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 14:29:33,708 - root - INFO - Generation average: 0.0010587428%
+2019-07-30 14:29:33,708 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:29:33,709 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 14:39:36,407 - root - INFO - Generation average: 0.0008058880%
+2019-07-30 14:39:36,407 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:39:36,407 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:39:36,408 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 14:39:36,408 - root - INFO - Network MSE: 0.0004685434%
+2019-07-30 14:39:36,408 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 14:39:36,408 - root - INFO - Network MSE: 0.0004715464%
+2019-07-30 14:39:36,408 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 14:39:36,408 - root - INFO - Network MSE: 0.0005266752%
+2019-07-30 14:39:36,409 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 14:39:36,409 - root - INFO - Network MSE: 0.0008579171%
+2019-07-30 14:39:36,409 - root - INFO - {'nb_neurons': 40, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 14:39:36,409 - root - INFO - Network MSE: 0.0009995826%
+2019-07-30 14:39:36,422 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 14:39:36,430 - root - INFO - Empieza la serie Serie 11 
+2019-07-30 14:39:36,432 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 14:39:36,440 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 14:39:36,440 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 14:39:36,440 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 14:51:13,893 - root - INFO - Generation average: 0.0343180240%
+2019-07-30 14:51:13,894 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 14:51:13,894 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 15:02:27,646 - root - INFO - Generation average: 0.0306937525%
+2019-07-30 15:02:27,647 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 15:02:27,647 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 15:18:12,868 - root - INFO - Generation average: 0.0305960199%
+2019-07-30 15:18:12,868 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 15:18:12,869 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 15:37:55,723 - root - INFO - Generation average: 0.0253627147%
+2019-07-30 15:37:55,724 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 15:37:55,725 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 16:03:27,123 - root - INFO - Generation average: 0.0237588628%
+2019-07-30 16:03:27,123 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 16:03:27,124 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 16:03:27,124 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-07-30 16:03:27,124 - root - INFO - Network MSE: 0.0214699116%
+2019-07-30 16:03:27,124 - root - INFO - {'nb_neurons': 10, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'sgd'}
+2019-07-30 16:03:27,125 - root - INFO - Network MSE: 0.0217240229%
+2019-07-30 16:03:27,126 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-30 16:03:27,126 - root - INFO - Network MSE: 0.0220886022%
+2019-07-30 16:03:27,127 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+2019-07-30 16:03:27,127 - root - INFO - Network MSE: 0.0225357059%
+2019-07-30 16:03:27,128 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+2019-07-30 16:03:27,128 - root - INFO - Network MSE: 0.0226941798%
+2019-07-30 16:03:27,144 - root - INFO - Empieza proceso de auto-ARIMA
+2019-07-30 16:03:27,154 - root - INFO - Empieza la serie Serie 12 
+2019-07-30 16:03:27,159 - root - INFO - Empieza proceso genetico con FFNN
+2019-07-30 16:03:27,168 - root - INFO - Empieza proceso genetico con LSTM
+2019-07-30 16:03:27,169 - root - INFO - ***Evolving 5 generations with population 10***
+2019-07-30 16:03:27,169 - root - INFO - ***Doing generation 1 of 5***
+2019-07-30 16:49:16,281 - root - INFO - Generation average: 0.0000004363%
+2019-07-30 16:49:16,282 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 16:49:16,283 - root - INFO - ***Doing generation 2 of 5***
+2019-07-30 17:28:31,856 - root - INFO - Generation average: 0.0000003390%
+2019-07-30 17:28:31,858 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 17:28:31,858 - root - INFO - ***Doing generation 3 of 5***
+2019-07-30 18:00:38,354 - root - INFO - Generation average: 0.0000002000%
+2019-07-30 18:00:38,355 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 18:00:38,357 - root - INFO - ***Doing generation 4 of 5***
+2019-07-30 18:38:16,332 - root - INFO - Generation average: 0.0000012725%
+2019-07-30 18:38:16,334 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 18:38:16,336 - root - INFO - ***Doing generation 5 of 5***
+2019-07-30 19:13:48,746 - root - INFO - Generation average: 0.0000039061%
+2019-07-30 19:13:48,747 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 19:13:48,748 - root - INFO - --------------------------------------------------------------------------------
+2019-07-30 19:13:48,748 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 19:13:48,748 - root - INFO - Network MSE: 0.0000012538%
+2019-07-30 19:13:48,748 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 19:13:48,748 - root - INFO - Network MSE: 0.0000020035%
+2019-07-30 19:13:48,749 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 19:13:48,750 - root - INFO - Network MSE: 0.0000022333%
+2019-07-30 19:13:48,750 - root - INFO - {'nb_neurons': 20, 'i_neurons': 4, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'adam'}
+2019-07-30 19:13:48,751 - root - INFO - Network MSE: 0.0000025683%
+2019-07-30 19:13:48,751 - root - INFO - {'nb_neurons': 20, 'i_neurons': 12, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam'}
+2019-07-30 19:13:48,752 - root - INFO - Network MSE: 0.0000049771%
+2019-07-30 19:13:48,770 - root - INFO - Empieza proceso de auto-ARIMA

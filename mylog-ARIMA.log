@@ -1,0 +1,45 @@
+2019-05-22 18:52:29,803 - root - INFO - entrada
+2019-05-22 18:52:29,803 - root - INFO - entrada
+2019-05-22 18:55:26,310 - root - INFO - salida
+2019-05-22 18:55:26,310 - root - INFO - salida
+2019-05-22 19:31:21,493 - root - INFO - entrada
+2019-05-22 19:31:21,493 - root - INFO - entrada
+2019-05-22 19:41:52,640 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,640 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,644 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,644 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,664 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,664 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-22 19:41:52,706 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,706 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,733 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,733 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,745 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:41:52,745 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-22 19:43:54,198 - root - INFO - entrada
+2019-05-22 19:43:54,198 - root - INFO - entrada
+2019-05-22 19:47:47,789 - root - INFO - entrada
+2019-05-22 19:47:47,789 - root - INFO - entrada
+2019-05-22 19:50:21,437 - root - INFO - salida
+2019-05-22 19:50:21,437 - root - INFO - salida
+2019-05-24 18:52:35,722 - matplotlib.pyplot - DEBUG - Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-05-24 18:53:23,974 - root - INFO - entrada
+2019-05-24 18:53:43,020 - root - INFO - salida
+2019-05-24 18:53:45,892 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:53:45,896 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-24 18:53:45,920 - matplotlib.font_manager - DEBUG - findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\hug0er\\Anaconda3\\envs\\Tesis\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2019-05-24 18:53:45,969 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:53:45,990 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:53:46,003 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:54:00,089 - root - INFO - entrada
+2019-05-24 18:54:19,423 - root - INFO - salida
+2019-05-24 18:54:23,699 - root - INFO - entrada
+2019-05-24 18:54:27,873 - root - INFO - salida
+2019-05-24 18:54:43,454 - root - INFO - entrada
+2019-05-24 18:54:47,668 - root - INFO - salida
+2019-05-24 18:54:52,357 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:54:52,402 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:54:52,448 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:54:52,459 - matplotlib.axes._base - DEBUG - update_title_pos
+2019-05-24 18:58:10,196 - root - INFO - entrada
+2019-05-24 18:58:29,423 - root - INFO - salida

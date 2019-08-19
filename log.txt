@@ -1,0 +1,24 @@
+05/21/2019 12:58:09 PM - INFO - ***Evolving 1 generations with population 20***
+05/21/2019 12:58:09 PM - INFO - ***Doing generation 1 of 1***
+05/21/2019 12:58:09 PM - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+05/21/2019 12:58:09 PM - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+05/21/2019 12:58:10 PM - WARNING - From C:\Users\hug0er\Anaconda3\lib\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+05/21/2019 12:59:33 PM - INFO - Generation average: 13479.72%
+05/21/2019 12:59:33 PM - INFO - --------------------------------------------------------------------------------
+05/21/2019 12:59:33 PM - INFO - --------------------------------------------------------------------------------
+05/21/2019 12:59:33 PM - INFO - {'nb_neurons': 4, 'i_neurons': 4, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'sgd'}
+05/21/2019 12:59:33 PM - INFO - Network accuracy: 7.86%
+05/21/2019 12:59:33 PM - INFO - {'nb_neurons': 16, 'i_neurons': 4, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adam'}
+05/21/2019 12:59:33 PM - INFO - Network accuracy: 7.10%
+05/21/2019 12:59:33 PM - INFO - {'nb_neurons': 16, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+05/21/2019 12:59:33 PM - INFO - Network accuracy: 6.84%
+05/21/2019 12:59:33 PM - INFO - {'nb_neurons': 10, 'i_neurons': 8, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+05/21/2019 12:59:33 PM - INFO - Network accuracy: 6.72%
+05/21/2019 12:59:33 PM - INFO - {'nb_neurons': 20, 'i_neurons': 8, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adam'}
+05/21/2019 12:59:33 PM - INFO - Network accuracy: 6.58%
